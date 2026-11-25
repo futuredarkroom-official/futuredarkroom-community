@@ -21,6 +21,7 @@ Welcome to the Future Darkroom community! Future Darkroom is a guided-learning t
 - **Q&A** — Ask the community for help
 - **Show and tell** — Show off something you've made
 - **Polls** — Take a vote from the community
-- **中文讨论** — Discuss in Chinese
+
+Chinese speakers: you can post in any category in Chinese, or start from the Chinese welcome post.
 
 Welcome, every learner and builder!
